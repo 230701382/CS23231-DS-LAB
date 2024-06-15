@@ -1,5 +1,8 @@
 NAME:VIKNESHKUMAR M.N
 ROLL NO. 230701382  
+EX-1 IMPLIMENTATION OF STACK USING ARRAY
+
+     
 include <stdio.h>
 #include <stdlib.h>
 
